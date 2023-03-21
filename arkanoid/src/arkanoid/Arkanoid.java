@@ -1,4 +1,5 @@
 //Eva Lara Velarte: modificación 1b y 2a
+//Ejercicio arkanoid
 
 package arkanoid;
 
